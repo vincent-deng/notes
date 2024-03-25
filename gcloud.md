@@ -17,4 +17,5 @@ gcloud compute instances create riding-school-app \
     --boot-disk-size=50GB \
     --boot-disk-type=pd-balanced \
     --boot-disk-device-name=riding-school-app
+    --tags=http-server,https-server
 ```
