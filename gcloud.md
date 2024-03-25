@@ -1,4 +1,5 @@
-```gcloud config get-value project
+```
+gcloud config get-value project
 
 gcloud projects list 
 
